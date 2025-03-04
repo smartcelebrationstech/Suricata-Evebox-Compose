@@ -1,1 +1,3 @@
-Suricata and Evebox combo for easy deploy with docker compose
+Наша система обнаружения вторжений. Правила пока на португальском, обновлю позже. 
+В составе сборки: suricata -- сама IPS/IDS, evebox -- веб-морда для неё. 
+Порт для доступа к веб-интерфейсу: 5636
